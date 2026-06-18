@@ -1,4 +1,6 @@
 # 系统说明文档
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/a4d6961f-25da-4b10-bee8-f1e76e1a249c" />
+
 
 ## 一、系统概述
 
